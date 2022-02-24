@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\bin\Debug\P1_4_1184055.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\bin\Debug\P1_4_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\bin\Debug\P1_4_1184055.pdb
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\obj\Debug\P1_4_1184055.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\obj\Debug\P1_4_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\P1_4_1184055\P1_4_1184055\obj\Debug\P1_4_1184055.pdb

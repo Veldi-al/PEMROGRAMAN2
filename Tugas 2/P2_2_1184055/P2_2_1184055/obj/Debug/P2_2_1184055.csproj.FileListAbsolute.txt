@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\P2_2_1184055\P2_2_1184055\bin\Debug\P2_2_1184055.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\P2_2_1184055\P2_2_1184055\bin\Debug\P2_2_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\P2_2_1184055\P2_2_1184055\bin\Debug\P2_2_1184055.pdb
+c:\users\acer\documents\visual studio 2015\Projects\P2_2_1184055\P2_2_1184055\obj\Debug\P2_2_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\P2_2_1184055\P2_2_1184055\obj\Debug\P2_2_1184055.pdb
